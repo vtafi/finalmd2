@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/controller/MobileCHController.java;C:/Intel/FinalTestmd2/src/main/java/controller/MobileXTController.java;C:/Intel/FinalTestmd2/src/main/java/entity/Mobile.java;C:/Intel/FinalTestmd2/src/main/java/entity/MobileCH.java;C:/Intel/FinalTestmd2/src/main/java/entity/MobileXT.java;C:/Intel/FinalTestmd2/src/main/java/respon/MobileCHrespon.java;C:/Intel/FinalTestmd2/src/main/java/respon/MobileXTrespon.java;C:/Intel/FinalTestmd2/src/main/java/service/IService.java;C:/Intel/FinalTestmd2/src/main/java/service/MobileCHService.java;C:/Intel/FinalTestmd2/src/main/java/service/MobileXTService.java;C:/Intel/FinalTestmd2/src/main/java/view/main.java;C:/Intel/FinalTestmd2/src/main/java/view/Validation.java" />
+  </component>
+</project>
